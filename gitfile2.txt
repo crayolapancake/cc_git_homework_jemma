@@ -1,7 +1,7 @@
-Hello I am a banana
+Hello I am not a banana
 
-No
+Probably
 
-Wait
+Am I a banana?
 
-Hello I am confused
+What is a banana?
